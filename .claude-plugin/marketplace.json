@@ -1,0 +1,12 @@
+{
+  "name": "competitor-researcher",
+  "description": "競合の料金・特徴を調査して比較レポートを自動生成するプラグイン「専属リサーチャー」の配布マーケットプレイス。",
+  "owner": { "name": "宮﨑竜治" },
+  "plugins": [
+    {
+      "name": "competitor-researcher",
+      "source": ".",
+      "description": "自社サービスを一度登録するだけで、競合の料金と特徴をWebで調査し、出典付きの比較レポートまで自動で作る、自分専用の専属リサーチャー。"
+    }
+  ]
+}
