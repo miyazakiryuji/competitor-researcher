@@ -1,7 +1,7 @@
 {
   "name": "competitor-researcher",
-  "version": "1.1.0",
-  "description": "自社サービスを一度登録するだけで、競合の料金と特徴をWebで調査し、出典付きの比較レポートとグラフ入りHTMLダッシュボードまで自動で作る、自分専用の専属リサーチャー。",
+  "version": "1.2.0",
+  "description": "自社サービスを一度登録するだけで、競合の料金と特徴をWebで調査し、出典付きの比較レポート・グラフ入りHTMLダッシュボード・PDF資料まで自動で作る、自分専用の専属リサーチャー。",
   "author": { "name": "宮﨑竜治" },
   "keywords": ["競合調査", "料金比較", "リサーチ", "マーケティング", "competitor", "research", "pricing"]
 }
